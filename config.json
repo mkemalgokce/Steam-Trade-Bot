@@ -1,0 +1,10 @@
+{
+    "username": "username",
+    "password": "password",
+    "sharedSecret": "yoursharedsecret",
+    "identitySecret": "youridentitysecret",
+    "mySteamID" : "yoursteamid",
+    "steamGroups": ["yourgroups1","yourgroups2","..."]
+    
+    
+}
